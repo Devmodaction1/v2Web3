@@ -68,9 +68,9 @@ function Marquee() {
               fontSize: "11px",
             }}
           >
-            Cryptocurrency Prices
+            .
           </a>
-          &nbsp;by Coinlib
+          .
         </div>
       </div>
     </>
